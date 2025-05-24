@@ -1,2 +1,2 @@
-# calculadora-funcional
+# calculadora
 
