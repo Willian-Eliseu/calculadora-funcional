@@ -6,7 +6,7 @@ O código foi feito com Javascript e Vue.js
 
 ## Site
 
-Para ver a calculadora em ação, acesse: [endereço](https://willian-eliseu.github.io/calculadora-funcional/)
+Para ver a calculadora em ação, acesse: [Calculadora](https://willian-eliseu.github.io/calculadora-funcional/)
 
 ## Sobre
 
